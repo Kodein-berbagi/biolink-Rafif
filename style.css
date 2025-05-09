@@ -21,6 +21,11 @@ main {
   border-radius: 50%;
 }
 
+h1,
+p {
+  color: white;
+}
+
 .sosmed {
   display: flex;
   align-items: center;
@@ -66,9 +71,4 @@ main {
   display: flex;
   flex-direction: column;
   gap: 10px;
-}
-
-h1,
-p {
-  color: white;
 }
